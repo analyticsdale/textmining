@@ -1,1 +1,4 @@
 Post Stop Words Here
+_dict = { 'boats':'boat', 'old man':'om', 'Asianing.com':'','asiaing':'', 'fishes':'fish', '\n':'',
+         'approaching': 'approachin', 'boating':'boat', 'wall':'walls','undergarment':'undergarments'
+        ,'tact':'tactful','wound':'wounded', 'wounding':'wounded', 'wounds':'wounded'}
